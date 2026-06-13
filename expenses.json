@@ -1,0 +1,34 @@
+[
+    {
+        "category": "travel",
+        "amount": 100.0
+    },
+    {
+        "category": "shopping",
+        "amount": 4000.0
+    },
+    {
+        "category": "movie",
+        "amount": 250.0
+    },
+    {
+        "category": "shopping",
+        "amount": 2000.0
+    },
+    {
+        "category": "food",
+        "amount": 250.0
+    },
+    {
+        "category": "shopping",
+        "amount": 2000.0
+    },
+    {
+        "category": "movie",
+        "amount": 190.0
+    },
+    {
+        "category": "food",
+        "amount": 300.0
+    }
+]
