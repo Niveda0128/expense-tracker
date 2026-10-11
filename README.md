@@ -47,4 +47,21 @@ This project was created to practise Python programming, GUI development, file h
 
 Niveda
 
-Developed as a personal portfolio project.
+Developed as a personal portfolio project.                                                                                                 📸 Project Screenshots
+
+Dashboard
+
+"MoneyWise Dashboard" 
+moneywise-dashboard.png.png
+                                                                                                                                          Transactions
+
+"MoneyWise Transactions" 
+moneywise-transsaction.png.png                                      
+                                                                                                                                         Monthly Report
+
+"MoneyWise Monthly Report"
+moneywise.report.png.png
+                                                                                                                                          Settings
+
+"MoneyWise Settings" 
+moneywise-settings.png.png
