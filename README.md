@@ -1,51 +1,50 @@
+💰 MoneyWise – Personal Expense Tracker
 
-# 💰 Expense Tracker Project
+MoneyWise is a Python-based personal finance application built with Tkinter. It helps users record daily expenses, manage monthly income and budgets, and monitor spending through a simple graphical interface.
 
-## 📌 Intern Details
-- Intern ID: CITS3074
-- Full Name: Niveda
-- Number of Weeks: 4 Weeks
+✨ Features
 
----
+- 📊 Dashboard with monthly spending summaries
+- ➕ Add expenses with category, amount, and date
+- 🧾 View and search transactions
+- 📅 Monthly expense reports
+- 🥧 Category-wise spending pie chart
+- 💵 Set monthly income and budget
+- ⚠️ Budget alerts when spending exceeds the limit
+- 💾 Save expenses and settings using JSON files
 
-## 📌 Project Name
-Expense Tracker using Python (JSON based CLI Application)
+🛠️ Technologies Used
 
----
-
-## 📌 Project Scope
-This project helps users track daily expenses efficiently.  
-It allows users to add, view, delete, search, and calculate total expenses using a simple command-line interface.  
-All data is stored permanently using a JSON file.
-
----
-
-## ⚙️ Features
-- Add Expense (Category + Amount)
-- View All Expenses
-- Delete Expense by Index
-- Search Expense by Category
-- Category-wise Total
-- Overall Total Calculation
-- JSON File Storage (Persistent Data)
-
----
-
-## 💻 Tech Stack
 - Python
+- Tkinter
 - JSON
-- File Handling
-- CLI (Command Line Interface)
+- Matplotlib-free custom Canvas chart
 
----
+🚀 How to Run
 
-## 📂 Project Structure
-- main.py → Main program
-- expenses.json → Data storage file
-- README.md → Project documentation
+1. Install Python 3 on your computer.
 
----
+2. Clone or download this repository.
 
-## 🚀 How to Run
-```bash
-python main.py
+3. Open the project folder in VS Code.
+
+4. Run the application:
+   
+   "python expense_tracker_gui-1.py"
+
+📁 Data Storage
+
+- "expenses.json" stores expense records.
+- "settings.json" stores income and budget settings.
+
+Keep these files in the same folder as the Python application.
+
+🎯 Project Goal
+
+This project was created to practise Python programming, GUI development, file handling, and basic personal finance tracking.
+
+👩‍💻 Author
+
+Niveda
+
+Developed as a personal portfolio project.
