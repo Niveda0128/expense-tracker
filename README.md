@@ -53,15 +53,13 @@ Dashboard
 
 "MoneyWise Dashboard" 
 moneywise-dashboard.png.png
-                                                                                                                                          Transactions
-
+Transaction
 "MoneyWise Transactions" 
 moneywise-transsaction.png.png                                      
-                                                                                                                                         Monthly Report
-
+Monthly Report
 "MoneyWise Monthly Report"
 moneywise.report.png.png
-                                                                                                                                          Settings
+Settings
 
 "MoneyWise Settings" 
 moneywise-settings.png.png
